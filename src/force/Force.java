@@ -19,26 +19,7 @@ public class Force {
             hiba hiba hiba hiba
             System.out.println("yolo");
         }
-        for (int i = 0; i < 10; i++) {
-            hiba hiba hiba hiba
-            System.out.println("yolo");
-        }
-        for (int i = 0; i < 10; i++) {
-            hiba hiba hiba hiba
-            System.out.println("yolo");
-        }
-        for (int i = 0; i < 10; i++) {
-            hiba hiba hiba hiba
-            System.out.println("yolo");
-        }
-        for (int i = 0; i < 10; i++) {
-            hiba hiba hiba hiba
-            System.out.println("yolo");
-        }
-        for (int i = 0; i < 10; i++) {
-            hiba hiba hiba hiba
-            System.out.println("yolo");
-        }
+        
         for (int i = 0; i < 10; i++) {
             hiba hiba hiba hiba
             System.out.println("yolo");
